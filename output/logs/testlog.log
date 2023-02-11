@@ -2906,3 +2906,18 @@
 2023-01-22 15:36:53,519 - logger_File -INFO - user clicked on Create New Account button
 2023-01-22 15:36:54,385 - logger_File -INFO - user_entered_required_informaiton_into_sign_up_form
 2023-01-22 15:36:54,530 - logger_File -INFO - user clicked on Sign up Button
+2023-02-11 10:04:06,293 - logger_File -INFO - React Appis equal to React App
+2023-02-11 10:04:06,700 - logger_File -INFO - User clicked on Sign In option
+2023-02-11 10:04:07,009 - logger_File -INFO - User entered emailsakijan@gmail.comand password Alijona@2020
+2023-02-11 10:04:07,115 - logger_File -INFO - User clicked on login button
+2023-02-11 10:29:47,891 - logger_File -INFO - React Appis equal to React App
+2023-02-11 10:29:48,225 - logger_File -INFO - User clicked on Sign In option
+2023-02-11 10:29:48,497 - logger_File -INFO - User entered emailsakijan@gmail.comand password Begimj@2020
+2023-02-11 10:29:48,586 - logger_File -INFO - User clicked on login button
+2023-02-11 10:29:48,907 - logger_File -INFO - User logged in into account
+2023-02-11 10:29:49,094 - logger_File -INFO - user clicked on orders section
+2023-02-11 10:29:49,206 - logger_File -INFO - user clicked on first Order in list
+2023-02-11 10:29:49,303 - logger_File -INFO - user click on review Button
+2023-02-11 10:29:49,585 - logger_File -INFO - user wrote  review on product
+2023-02-11 10:29:49,673 - logger_File -INFO - user clicked add your review Button
+2023-02-11 10:29:50,400 - logger_File -INFO - a review messg displayedYour review was added successfully
