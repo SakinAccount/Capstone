@@ -1,5 +1,5 @@
  Feature: Retail Order Page
- 
+
 Background:
 Given User is on retail website
     When User click on Sign in option
@@ -24,7 +24,7 @@ Given User is on retail website
     And User select the drop off service 'FedEx'
     And User click on Return Order button
     Then a cancelation message should be displayed 'Return was successfull'
-@Test
+
   Scenario: Verify User can write a review on order placed
    
     And User click on Review button
